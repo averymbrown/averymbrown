@@ -10,6 +10,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I'm a big sci-fi geek!
 -->
+I'm a 4th undergraduate student at the University of Toronto specializing in Astronomy and Physics!
 
 - 🔭 I’m currently working on data collection of Lyman Break Galaxies
 - 📫 You can contact me by email: averym.brown@mail.utoronto.ca
