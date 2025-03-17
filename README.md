@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on data collection of Lyman Break Galaxies
-- 📫 How to reach me: Email me at averym.brown@mail.utoronto.ca
+- 📫 You can contact me by email: averym.brown@mail.utoronto.ca
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I'm a big sci-fi geek!
